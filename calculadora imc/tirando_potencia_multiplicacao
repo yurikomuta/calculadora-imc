@@ -1,0 +1,7 @@
+#Exemplo potencia
+a = 2**2
+print(a)
+
+#Exemplo multiplicação
+b = 2*2
+print(b)
